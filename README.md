@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolgakaranlik
-- 👀 I’m interested in Game Programming (Unity or C++) and/or .Net Programming
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Game Programming (Unity/C# or Unreal/C++, soon Unreal/Verse)
+- 🌱 I’m currently learning Unreal Engine with Verse
 - 💞️ I’m looking to collaborate on game projects, especially AAA
 - 📫 How to reach me: just send an email of tolgakaranlik@gmail.com
 
